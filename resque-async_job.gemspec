@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Stephane Busso"]
   s.email       = ["stephane.busso@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{A simple method to queue jobs}
+  s.description = %q{A simple method to queue jobs}
 
   s.rubyforge_project = "resque-async_job"
 
